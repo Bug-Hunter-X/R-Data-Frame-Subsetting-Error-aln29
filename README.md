@@ -1,0 +1,1 @@
+This repository demonstrates a common error in R programming related to data frame subsetting. The `bug.r` file shows incorrect usage of character indexing to extract data, while `bugSolution.r` provides the correct way to subset data frames.  This is helpful for beginners and anyone who might encounter this frequent mistake.
